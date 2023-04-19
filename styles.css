@@ -240,7 +240,7 @@ footer {
   .main-tag,
   footer {
     background: linear-gradient(105deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)) no-repeat fixed,
-      url(./images/background-small.jpg) no-repeat center fixed;
+      url('./images/background-small(2).jpg') no-repeat center fixed;
     background-size: cover;
   }
 
